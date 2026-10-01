@@ -1,0 +1,34 @@
+Fotos de Unsplash (https://unsplash.com/license) — uso libre, sin atribución obligatoria.
+archivo | foto | autor
+japon.jpg | https://images.unsplash.com/photo-1505440484611-23c171ad6e96 | Tianshu Liu
+marruecos.jpg | https://images.unsplash.com/photo-1548018560-4cb48a8837c1 | Don Fontijn
+india.jpg | https://images.unsplash.com/photo-1477587458883-47145ed94245 | Aditya Siva
+corea.jpg | https://images.unsplash.com/photo-1700580447235-454f48647952 | Mos Sukjaroenkraisri
+emiratos.jpg | https://images.unsplash.com/photo-1584551246679-0daf3d275d0f | Daniel Olah
+china.jpg | https://images.unsplash.com/photo-1612537210450-0b304df7fd9b | Max Chen
+mexico.jpg | https://images.unsplash.com/photo-1686448921254-b326a7914d2f | Anastasiia Malai
+alemania.jpg | https://images.unsplash.com/photo-1623345805780-8f01f714e65f | Tobias Reich
+jp-casa.jpg | https://images.unsplash.com/photo-1629622415461-12860a2b224c | Taiki Ishikawa
+jp-palillos.jpg | https://images.unsplash.com/photo-1612529377952-327418d4eec9 | Milada Vigerova
+jp-reverencia.jpg | https://images.unsplash.com/photo-1692220840388-ab0b79511fd8 | Andrea De Santis
+ma-te.jpg | https://images.unsplash.com/photo-1591299089616-c9604047b1a6 | Jaida Stewart
+ma-mano.jpg | https://images.unsplash.com/photo-1737210236138-bd58c5ce3a2e | Denis
+ma-ramadan.jpg | https://images.unsplash.com/photo-1648288725055-5ba4063355b9 | Masjid Pogung Dalangan
+in-gestos.jpg | https://images.unsplash.com/photo-1695294504320-6da4e3fb9ae7 | Samir Arora
+in-namaste.jpg | https://images.unsplash.com/photo-1774437790560-3e70d735653e | Tanmay Abhay Mahajan
+in-templo.jpg | https://images.unsplash.com/photo-1582510003544-4d00b7f74220 | SIBY
+kr-saludo.jpg | https://images.unsplash.com/photo-1703437876552-f054cd8e8b88 | William Warby
+kr-mesa.jpg | https://images.unsplash.com/photo-1498654896293-37aacf113fd9 | Jakub Kapusnak
+kr-rojo.jpg | https://images.unsplash.com/photo-1581431886288-e216ea4ccf3f | Kelly Sikkema
+ae-foto.jpg | https://images.unsplash.com/photo-1512453979798-5ea266f8880c | David Rodrigo
+ae-vestimenta.jpg | https://images.unsplash.com/photo-1511091734515-e50d46c37240 | Ryan Miglinczy
+ae-saludo.jpg | https://images.unsplash.com/photo-1507020177664-e4eac8761972 | Rishab Lamichhane
+cn-regalos.jpg | https://images.unsplash.com/photo-1707328617375-26dad14f7cfa | Bach Nguyen
+cn-mesa.jpg | https://images.unsplash.com/photo-1687068281755-45ad7855e2e8 | Sehajpal Singh
+cn-cara.jpg | https://images.unsplash.com/photo-1601831753677-01f960be19eb | Sergey N
+mx-saludo.jpg | https://images.unsplash.com/photo-1530047139082-5435ca3c4614 | Omar Lopez
+mx-muertos.jpg | https://images.unsplash.com/photo-1667598335682-fd98c95fc80f | Roger Ce
+mx-casa.jpg | https://images.unsplash.com/photo-1665622453809-8fda5773c335 | Hybrid Storytellers
+de-puntualidad.jpg | https://images.unsplash.com/photo-1625362798521-ae5433177cb2 | Preston Foster
+de-brindis.jpg | https://images.unsplash.com/photo-1670124495894-52ba7ee378a9 | Kimia
+de-domingo.jpg | https://images.unsplash.com/photo-1580961074865-78eac6d26180 | Chad Greiter
